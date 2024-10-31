@@ -1,1 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.poll {
+    margin: 20px;
+}
+
+.results {
+    margin-top: 20px;
+}
 
