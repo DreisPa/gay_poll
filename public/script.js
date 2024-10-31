@@ -23,4 +23,4 @@ fetch('/poll')
     })
     .catch(error => console.error('Ошибка:', error));
 
-Найти еще
+
